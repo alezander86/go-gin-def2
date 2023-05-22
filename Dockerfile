@@ -11,3 +11,5 @@ EXPOSE 8080
 RUN chmod u+x /app/gin-gonic
 
 ENTRYPOINT ["/app/gin-gonic/go-binary"]
+
+###
