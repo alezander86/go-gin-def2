@@ -1,0 +1,1 @@
+1. Application go-gin-def2 has been successfully deployed!!
